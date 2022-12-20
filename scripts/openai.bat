@@ -1,0 +1,1 @@
+python %OPENAI_HOME%\openai_cli.py %1
