@@ -1,1 +1,1 @@
-python $env:OPENAI_HOME\openai_cli.py $args[0]
+python $env:OPENAI_HOME\openai_cli.py
